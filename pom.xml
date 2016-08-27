@@ -25,5 +25,10 @@
             <artifactId>spring-core</artifactId>
             <version>4.3.1.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>1.2</version>
+        </dependency>
     </dependencies>
 </project>
