@@ -3,6 +3,7 @@ package com.pluralsight.model;
 /**
  * Created by leemorris on 25/08/2016.
  */
+
 public class Customer {
 
     private String firstName;
